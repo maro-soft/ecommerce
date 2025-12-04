@@ -1,0 +1,24 @@
+/*
+ * Template Name: Ecommerce - Online Shop
+ * Authors: Amr & Marwan
+ * Version: 1.0.0
+ * License: MIT
+ * Description: A responsive and modern website template for Ecommerce.
+*/
+
+// Configuration
+@import "abstract/functions";
+@import "abstract/variables";
+@import "abstract/maps";
+@import "abstract/mixins";
+@import "abstract/utilities";
+
+// Layout & components
+@import "components/index";
+@import "components/ui/index";
+
+// Pages
+@import "pages/index";
+
+// Utilities
+@import "utilities/index";
